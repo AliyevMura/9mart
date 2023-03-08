@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.exe
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.deps.json
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.runtimeconfig.json
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.dll
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.pdb
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.dll
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\refint\ArraysTask.dll
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.pdb
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ref\ArraysTask.dll
